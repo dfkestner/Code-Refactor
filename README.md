@@ -7,7 +7,7 @@ The use of semantic tags reduced the need for class and id tags, which made it e
 
 ## Links
 - [Horiseon Webpage](https://dfkestner.github.io/Code-Refactor/Develop/index.html)
-- [Link to Repository] (https://github.com/dfkestner/Horiseon-Optimal-Online-Experience)
+- [Link to Repository](https://github.com/dfkestner/Horiseon-Optimal-Online-Experience)
 
 ## Demo
 ![](assets/images/HoriseonFull.png)
